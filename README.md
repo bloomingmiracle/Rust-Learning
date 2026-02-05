@@ -15,8 +15,7 @@ This repository tracks my Rust learning journey based on the course material.
 
 ## 📂 Files Created
 
-- `guessing-game.rs` — Guess the Number game with player name input and attempts counter 🎯  
-- Other exercises from Chapters 3–6 will be added soon. 🖥️  
+- `guessing-game.rs` — Guess the Number game with player name input and attempts counter 🎯    
 
 ## ✨ Summary
 
